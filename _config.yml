@@ -10,9 +10,12 @@ logo:
 
 # Just the Docs settings
 search_enabled: true
+back_to_top: true
+back_to_top_text: "Back to top"
 aux_links:
   "Mural (World Canvas)":
     - "https://app.mural.co/t/digitallotus9965/m/digitallotus9965/1746272006278/ba82f868f204fb732a84d435aeb6b27ae6fb4838"
+aux_links_new_tab: true
 
 # Navigation order is controlled via front matter nav_order on each page.
 nav_external_links:
@@ -27,3 +30,4 @@ plugins:
 # Optional: sitemap
 kramdown:
   input: GFM
+footer_content: "Cosmic Canvas • Built with Just the Docs"
