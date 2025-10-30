@@ -1,7 +1,7 @@
 title: Cosmic Canvas
 description: A collaborative fantasy world—gods, realms, nations, factions, and myths.
-url: https://<your-username>.github.io
-baseurl: 
+url: https://triursa.github.io
+baseurl: /cosmic_canvas
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
@@ -17,7 +17,7 @@ aux_links:
 # Navigation order is controlled via front matter nav_order on each page.
 nav_external_links:
   - title: Source on GitHub
-    url: https://github.com/<your-username>/cosmic_canvas
+    url: https://github.com/triursa/cosmic_canvas
 
 # Build
 plugins:
