@@ -1,0 +1,29 @@
+title: Cosmic Canvas
+description: A collaborative fantasy world—gods, realms, nations, factions, and myths.
+url: https://<your-username>.github.io
+baseurl: 
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+logo: 
+
+# Just the Docs settings
+search_enabled: true
+aux_links:
+  "Mural (World Canvas)":
+    - "https://app.mural.co/t/digitallotus9965/m/digitallotus9965/1746272006278/ba82f868f204fb732a84d435aeb6b27ae6fb4838"
+
+# Navigation order is controlled via front matter nav_order on each page.
+nav_external_links:
+  - title: Source on GitHub
+    url: https://github.com/<your-username>/cosmic_canvas
+
+# Build
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Optional: sitemap
+kramdown:
+  input: GFM
