@@ -17,5 +17,11 @@ A collaborative fantasy world born from a table game—woven with gods, realms, 
 [Factions & Orders](factions-orders){: .btn}
 [Mythic Figures](mythic-figures){: .btn}
 
+## Featured visuals
+
+[![Kolarus desert]({{ site.baseurl }}/Images/continent_kolarus_1.png){: width="260" }](nations#kolarus)
+[![Faran canopy]({{ site.baseurl }}/Images/continent_faran_1.jpg){: width="260" }](nations#faran)
+[![Umbradi — stars and shadows]({{ site.baseurl }}/Images/plane_umbradi.jpeg){: width="260" }](planes-realms#umbradi)
+
 External canvas: [Mural board](https://app.mural.co/t/digitallotus9965/m/digitallotus9965/1746272006278/ba82f868f204fb732a84d435aeb6b27ae6fb4838){: target="_blank" rel="noopener" }
 

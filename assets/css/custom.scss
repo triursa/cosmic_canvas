@@ -1,0 +1,39 @@
+---
+---
+/* Custom lightweight visuals for image grids and cards */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.image-grid > li {
+  margin: 0; /* reset default list margins */
+}
+
+.image-card {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--color-canvas-default, #0b0b0b);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.22);
+  overflow: hidden;
+  transition: transform 120ms ease, box-shadow 120ms ease;
+}
+
+.image-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.28);
+}
+
+.image-caption {
+  font-size: 0.85rem;
+  color: var(--body-secondary-color, #9aa4b2);
+  text-align: center;
+  margin-top: 0.25rem;
+}

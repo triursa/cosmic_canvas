@@ -31,3 +31,6 @@ A desert continent once home to an ancient thriving civilization.
 ### Umbradi
 
 A plane of stars and shadows.
+
+![Umbradi — stars and shadows]({{ site.baseurl }}/Images/plane_umbradi.jpeg){: width="360" }
+_Umbradi — Image 1_

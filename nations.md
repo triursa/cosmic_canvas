@@ -16,6 +16,18 @@ Nation and continent.
 
 Nation and continent.
 
+- Visuals
+
+{: .image-grid}
+- ![Kolarus landscape 1]({{ site.baseurl }}/Images/continent_kolarus_1.png){: .image-card }
+  _Kolarus — Image 1_
+- ![Kolarus landscape 2]({{ site.baseurl }}/Images/continent_kolarus_2.png){: .image-card }
+  _Kolarus — Image 2_
+- ![Kolarus landscape 3]({{ site.baseurl }}/Images/continent_kolarus_3.png){: .image-card }
+  _Kolarus — Image 3_
+- ![Kolarus landscape 4]({{ site.baseurl }}/Images/continent_kolarus_4.png){: .image-card }
+  _Kolarus — Image 4_
+
 - Scrypt — Capital City
   - The Glass Palace
 - Juut — City built around the bones of a bestial titan
@@ -39,6 +51,14 @@ Undersea nation of merfolk ruled by a Senate of elected officials from each city
 ### Faran
 
 Nation/Continent.
+
+- Visuals
+
+{: .image-grid}
+- ![Faran canopy 1]({{ site.baseurl }}/Images/continent_faran_1.jpg){: .image-card }
+  _Faran — Image 1_
+- ![Faran canopy 2]({{ site.baseurl }}/Images/continent_faran_2.jpg){: .image-card }
+  _Faran — Image 2_
 
 - Velunara — Capital
 - Narrus — Region claimed by the Natai in Faran
